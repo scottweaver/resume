@@ -28,6 +28,16 @@ Here we go! ⬇
 
 ### Skills
 
+Strategic Planning
+
+Coaching
+
+Customer Satisfaction
+
+Leadership
+
+Creativity
+
 ### Projects
 
 ### Achievements
