@@ -27,10 +27,15 @@ Here we go! ⬇
 ###### Software Development Engineer
 
 ### Skills
+
 Strategic Planning
+
 Coaching
+
 Customer Satisfaction
+
 Leadership
+
 Creativity
 
 ### Projects
