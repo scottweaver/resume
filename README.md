@@ -28,12 +28,13 @@ Here we go! ⬇
 
 ### Skills
 
-* ##### Professional
+###### *Professional*
   - Scala
   - Akka
   - Ruby
-* ##### Personal
-  - Keen intellect
+
+###### *Personal*
+  - Keen Intellect
   - Strategic Planning
   - Coaching
   - Customer Satisfaction
