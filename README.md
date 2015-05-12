@@ -28,15 +28,17 @@ Here we go! ⬇
 
 ### Skills
 
-Strategic Planning
-
-Coaching
-
-Customer Satisfaction
-
-Leadership
-
-Creativity
+* ##### Professional
+  - Scala
+  - Akka
+  - Ruby
+* ##### Personal
+  - Keen intellect
+  - Strategic Planning
+  - Coaching
+  - Customer Satisfaction
+  - Leadership
+  - Creativity
 
 ### Projects
 
