@@ -42,6 +42,9 @@ Here we go! ⬇
   - Creativity
 
 ### Projects
+  - Settlement Facilitation Hub
+  - VCN Service
+  - Disclosure Service
 
 ### Achievements
 
